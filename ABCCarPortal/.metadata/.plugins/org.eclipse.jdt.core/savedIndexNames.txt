@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\acer\Documents\ADP MODULE\BDSE07-ADP-0922_KervinCurtDelosReyes_SourceCode\ABCCarPortal\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+1192493159.index
+1067094681.index

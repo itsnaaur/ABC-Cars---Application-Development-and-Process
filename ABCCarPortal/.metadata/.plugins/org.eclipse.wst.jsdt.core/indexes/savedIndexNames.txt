@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+C:\Users\acer\Documents\ADP MODULE\BDSE07-ADP-0922_KervinCurtDelosReyes_SourceCode\ABCCarPortal\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3573550663.index
+1097262110.index
+437458973.index
+1067094681.index
+3468135464.index
